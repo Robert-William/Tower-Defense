@@ -65,6 +65,8 @@
     <Compile Include="Assets\Scripts\Game\Enemy\Waypoints\WayPoint.cs" />
     <Compile Include="Assets\Scripts\Game\UI\EnemyHealthBar.cs" />
     <Compile Include="Assets\Scripts\Title Screen\TitleManager.cs" />
+    <Compile Include="Assets\Scripts\Utility\AutoScaler.cs" />
+    <Compile Include="Assets\Scripts\Utility\LoopRotate.cs" />
     <Compile Include="Assets\Scripts\Utility\SelfDestruct.cs" />
     <Compile Include="Assets\Scripts\Utility\UtilityMethods.cs" />
     <Reference Include="UnityEditor.StandardEvents">
